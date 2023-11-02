@@ -5,7 +5,7 @@
 </div>
 
 ## Acerca de mí
-¡Hola! Soy Aldo Vela Casas, un desarrollador Full Stack con experiencia en una variedad de tecnologías web. Graduado del bootcamp de desarrollo web de Henry, donde adquirí habilidades sólidas en JavaScript, React, HTML, CSS y mucho más. Mi pasión por la programación me ha llevado a explorar y trabajar con una amplia gama de tecnologías, incluyendo:
+¡Hola! Soy Aldo Vela Casas, un desarrollador Full Stack con experiencia en una variedad de tecnologías web. Graduado del bootcamp de desarrollo web de Henry, donde adquirí habilidades sólidas en JavaScript,TypeScript, React, HTML, CSS y mucho más. Mi pasión por la programación me ha llevado a explorar y trabajar con una amplia gama de tecnologías, incluyendo:
 
 - **Frontend**: React, Redux, HTML, CSS, Tailwind CSS.
 - **Backend**: Node.js, Express, PostgreSQL, MySQL.
